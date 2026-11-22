@@ -1,6 +1,4 @@
-[dashboard_b_indo_kelas_x_sman_4_kendari (1).html](https://github.com/user-attachments/files/35228414/dashboard_b_indo_kelas_x_sman_4_kendari.1.html)
-# bahasaIndonesia-master-hub
-buat ulangan aja sih wok
+
 <!DOCTYPE html>
 <html lang="id" class="light">
 <head>
